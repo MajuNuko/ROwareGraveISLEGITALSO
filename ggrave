@@ -436,10 +436,3 @@ end)
 
 -- //
 return Aiming
-local player =game.Players.LocalPlayer
- 
-if player.Name == "ExoticPhas3" then
-    print("whitelisted")
-    else
-        player:Kick("Not" .. "WhitelistedMadebygrave")
-     end

@@ -1560,8 +1560,8 @@
 --THIS IS NOT MAIN SOURCE THIS IS EX SOURCE MEANING THIS IS OLD AND SHITTY SO NOT WORTH PASTEING U FUCKING NIGGER AS SKIDS --
 --THIS IS NOT MAIN SOURCE THIS IS EX SOURCE MEANING THIS IS OLD AND SHITTY SO NOT WORTH PASTEING U FUCKING NIGGER AS SKIDS --
 --THIS IS NOT MAIN SOURCE THIS IS EX SOURCE MEANING THIS IS OLD AND SHITTY SO NOT WORTH PASTEING U FUCKING NIGGER AS SKIDS --
+if getgenv().Aiming then return getgenv().Aiming end
 
-if getgenv().Aiming then return getgenv().Aiming
 -- // Services
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
@@ -1594,6 +1594,7 @@ local FindFirstChildWhichIsA = Instancenew("Part").FindFirstChildWhichIsA
 local FindFirstChild = Instancenew("Part").FindFirstChild
 local tableremove = table.remove
 local tableinsert = table.insert
+
 -- // Silent Aim Vars
 getgenv().Aiming = {
     Enabled = true,

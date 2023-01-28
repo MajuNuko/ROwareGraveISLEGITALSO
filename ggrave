@@ -1561,6 +1561,8 @@
 --THIS IS NOT MAIN SOURCE THIS IS EX SOURCE MEANING THIS IS OLD AND SHITTY SO NOT WORTH PASTEING U FUCKING NIGGER AS SKIDS --
 --THIS IS NOT MAIN SOURCE THIS IS EX SOURCE MEANING THIS IS OLD AND SHITTY SO NOT WORTH PASTEING U FUCKING NIGGER AS SKIDS --
 
+if game.Players.LocalPlayer.Username== {"ExoicPhas3", "Username2", "Username3"} then
+print("Whitelisted Made by grave")
 if getgenv().Aiming then return getgenv().Aiming end
 
 -- // Services

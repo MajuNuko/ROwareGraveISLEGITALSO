@@ -1560,9 +1560,17 @@
 --THIS IS NOT MAIN SOURCE THIS IS EX SOURCE MEANING THIS IS OLD AND SHITTY SO NOT WORTH PASTEING U FUCKING NIGGER AS SKIDS --
 --THIS IS NOT MAIN SOURCE THIS IS EX SOURCE MEANING THIS IS OLD AND SHITTY SO NOT WORTH PASTEING U FUCKING NIGGER AS SKIDS --
 --THIS IS NOT MAIN SOURCE THIS IS EX SOURCE MEANING THIS IS OLD AND SHITTY SO NOT WORTH PASTEING U FUCKING NIGGER AS SKIDS --
+wait(4)
+
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "GraveSTREAMABLE", -- Required
-	Text = "BEING LEGIT IS FOR PUSSYS", -- Required
+	Title = "AntiSkid", -- Required
+	Text = "Hey If Ur TryingToSkidThisGoodLuckFinding Me ", -- Required
+})
+wait(6)
+
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "AntiSkid", -- Required
+	Text = "Dont Mind That Message  ", -- Required
 })
 if getgenv().Aiming then return getgenv().Aiming end
 
